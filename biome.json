@@ -42,7 +42,8 @@
       },
       "style": {
         "useSelfClosingElements": "info",
-        "noUselessElse": "info"
+        "noUselessElse": "info",
+        "noNonNullAssertion": "off"
       }
     }
   },
